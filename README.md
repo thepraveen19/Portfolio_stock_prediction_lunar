@@ -2,7 +2,15 @@
 
 ## Overview
 
-Welcome to our trading predictions tool! This application combines swing trade and equity predictions, resulting in an impressive 36% return on investment over the past year. Follow the simple steps below to get started.
+Welcome to our trading predictions tool! This application combines swing trade and equity predictions, resulting in an impressive 35% return on investment over the past year. 
+
+Screenshot from my zerodha account:
+
+![zerodha_console_profits](https://github.com/thepraveen19/Portfolio_stock_prediction_lunar/assets/42544315/31306e36-c1e9-4aa2-bf01-c0b5761a6a3f)
+
+Follow the simple steps below to get started.
+
+
 
 ## Usage
 
